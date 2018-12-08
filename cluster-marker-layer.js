@@ -31,7 +31,6 @@ export default class ClusterMarkerLayer {
         ], Math.floor(zoom));
 
         if (Object.keys(this.clusters).length > 0) {
-            // this.clusters.map(cluster => cluster.remove());
             Object.keys(this.clusters).map(key => this.clusters[key].remove());
         }
 
@@ -69,8 +68,8 @@ export default class ClusterMarkerLayer {
                 this.clusters[feature.properties.cluster_id] = marker;
                 marker.setLngLat(feature.geometry.coordinates).addTo(this._map);
             } else {
-                el.innerHTML = `<div class='marker' tabindex='0'></div>`;
-                marker = new mapboxgl.Marker(el);
+                // el.innerHTML = `<div class='marker' tabindex='0'></div>`;
+                marker = new mapboxgl.Marker();
                 marker.setLngLat(feature.geometry.coordinates).addTo(this._map);
                 this.markers.push(marker);
             }

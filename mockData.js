@@ -5,7 +5,7 @@ var testGeoJson = {
         "geometry": {
             "type": "Point",
             "coordinates": [
-                145.08978366851807, -37.77044335228536
+                120.08978366851807, 31.77044335228536
             ]
         },
         "properties": {
@@ -18,7 +18,7 @@ var testGeoJson = {
         "geometry": {
             "type": "Point",
             "coordinates": [
-                145.09192943572998, -37.77200380939487
+                120.09192943572998, 31.77200380939487
             ]
         },
         "properties": {
@@ -31,7 +31,7 @@ var testGeoJson = {
         "geometry": {
             "type": "Point",
             "coordinates": [
-                145.08841037750244, -37.770986123710784
+                120.08841037750244, 31.770986123710784
             ]
         },
         "properties": {
@@ -44,7 +44,7 @@ var testGeoJson = {
         "geometry": {
             "type": "Point",
             "coordinates": [
-                145.08609294891357, -37.77186811877961
+                120.08609294891357, 31.77186811877961
             ]
         },
         "properties": {
@@ -57,7 +57,7 @@ var testGeoJson = {
         "geometry": {
             "type": "Point",
             "coordinates": [
-                145.2224349975586, -37.73759826977982
+                120.2224349975586, 31.73759826977982
             ]
         },
         "properties": {
@@ -70,7 +70,7 @@ var testGeoJson = {
         "geometry": {
             "type": "Point",
             "coordinates": [
-                145.22724151611328, -37.73814128221038
+                120.22724151611328, 31.73814128221038
             ]
         },
         "properties": {
@@ -83,7 +83,7 @@ var testGeoJson = {
         "geometry": {
             "type": "Point",
             "coordinates": [
-                145.22481679916382, -37.737666146551454
+                120.22481679916382, 31.737666146551454
             ]
         },
         "properties": {
@@ -96,7 +96,7 @@ var testGeoJson = {
         "geometry": {
             "type": "Point",
             "coordinates": [
-                145.08919894695282, -37.771316873094484
+                120.08919894695282, 31.771316873094484
             ]
         },
         "properties": {
@@ -109,7 +109,7 @@ var testGeoJson = {
         "geometry": {
             "type": "Point",
             "coordinates": [
-                145.0908726453781, -37.77184267676153
+                120.0908726453781, 31.77184267676153
             ]
         },
         "properties": {
@@ -122,7 +122,7 @@ var testGeoJson = {
         "geometry": {
             "type": "Point",
             "coordinates": [
-                145.09055078029633, -37.77255504995871
+                120.09055078029633, 31.77255504995871
             ]
         },
         "properties": {
@@ -135,7 +135,7 @@ var testGeoJson = {
         "geometry": {
             "type": "Point",
             "coordinates": [
-                145.09006798267365, -37.772580491731674
+                120.09006798267365, 31.772580491731674
             ]
         },
         "properties": {
@@ -148,7 +148,7 @@ var testGeoJson = {
         "geometry": {
             "type": "Point",
             "coordinates": [
-                145.0888878107071, -37.771478006873664
+                120.0888878107071, 31.771478006873664
             ]
         },
         "properties": {
@@ -161,7 +161,7 @@ var testGeoJson = {
         "geometry": {
             "type": "Point",
             "coordinates": [
-                145.09006798267365, -37.77124054644494
+                120.09006798267365, 31.77124054644494
             ]
         },
         "properties": {
@@ -174,7 +174,7 @@ var testGeoJson = {
         "geometry": {
             "type": "Point",
             "coordinates": [
-                145.09133398532867, -37.77189356078893
+                120.09133398532867, 31.77189356078893
             ]
         },
         "properties": {
@@ -187,7 +187,7 @@ var testGeoJson = {
         "geometry": {
             "type": "Point",
             "coordinates": [
-                145.09010016918182, -37.77174938928699
+                120.09010016918182, 31.77174938928699
             ]
         },
         "properties": {
@@ -200,7 +200,7 @@ var testGeoJson = {
         "geometry": {
             "type": "Point",
             "coordinates": [
-                145.0899714231491, -37.77262289466715
+                120.0899714231491, 31.77262289466715
             ]
         },
         "properties": {
@@ -213,7 +213,7 @@ var testGeoJson = {
         "geometry": {
             "type": "Point",
             "coordinates": [
-                145.0898319482803, -37.77266529757832
+                120.0898319482803, 31.77266529757832
             ]
         },
         "properties": {
@@ -226,7 +226,7 @@ var testGeoJson = {
         "geometry": {
             "type": "Point",
             "coordinates": [
-                145.08992850780487, -37.772750103327695
+                120.08992850780487, 31.772750103327695
             ]
         },
         "properties": {
@@ -239,7 +239,7 @@ var testGeoJson = {
         "geometry": {
             "type": "Point",
             "coordinates": [
-                145.08992850780487, -37.77280946729438
+                120.08992850780487, 31.77280946729438
             ]
         },
         "properties": {
@@ -252,7 +252,7 @@ var testGeoJson = {
         "geometry": {
             "type": "Point",
             "coordinates": [
-                145.09027183055878, -37.77267377815764
+                120.09027183055878, 31.77267377815764
             ]
         },
         "properties": {
@@ -265,7 +265,7 @@ var testGeoJson = {
         "geometry": {
             "type": "Point",
             "coordinates": [
-                145.09043276309967, -37.77264833641677
+                120.09043276309967, 31.77264833641677
             ]
         },
         "properties": {
@@ -278,7 +278,7 @@ var testGeoJson = {
         "geometry": {
             "type": "Point",
             "coordinates": [
-                145.09032547473907, -37.7728349089798
+                120.09032547473907, 31.7728349089798
             ]
         },
         "properties": {
@@ -291,7 +291,7 @@ var testGeoJson = {
         "geometry": {
             "type": "Point",
             "coordinates": [
-                145.0909799337387, -37.77193596411836
+                120.0909799337387, 31.77193596411836
             ]
         },
         "properties": {
@@ -304,7 +304,7 @@ var testGeoJson = {
         "geometry": {
             "type": "Point",
             "coordinates": [
-                145.0910872220993, -37.77196140610435
+                120.0910872220993, 31.77196140610435
             ]
         },
         "properties": {
@@ -317,7 +317,7 @@ var testGeoJson = {
         "geometry": {
             "type": "Point",
             "coordinates": [
-                145.22763848304749, -37.73817522035504
+                120.22763848304749, 31.73817522035504
             ]
         },
         "properties": {
@@ -330,7 +330,7 @@ var testGeoJson = {
         "geometry": {
             "type": "Point",
             "coordinates": [
-                145.22796034812927, -37.738412786932045
+                120.22796034812927, 31.738412786932045
             ]
         },
         "properties": {
@@ -343,7 +343,7 @@ var testGeoJson = {
         "geometry": {
             "type": "Point",
             "coordinates": [
-                145.2278745174408, -37.73863338378519
+                120.2278745174408, 31.73863338378519
             ]
         },
         "properties": {
@@ -356,7 +356,7 @@ var testGeoJson = {
         "geometry": {
             "type": "Point",
             "coordinates": [
-                144.99034800000004, -37.80856399999999
+                144.99034800000004, 31.80856399999999
             ]
         },
         "properties": {
@@ -369,7 +369,7 @@ var testGeoJson = {
         "geometry": {
             "type": "Point",
             "coordinates": [
-                145.0978946685791, -37.77353879213807
+                120.0978946685791, 31.77353879213807
             ]
         },
         "properties": {
@@ -382,7 +382,7 @@ var testGeoJson = {
         "geometry": {
             "type": "Point",
             "coordinates": [
-                145.15514373779297, -37.78526636515606
+                120.15514373779297, 31.78526636515606
             ]
         },
         "properties": {
@@ -395,7 +395,7 @@ var testGeoJson = {
         "geometry": {
             "type": "Point",
             "coordinates": [
-                145.08853912353516, -37.806427253771915
+                120.08853912353516, 31.806427253771915
             ]
         },
         "properties": {
@@ -408,7 +408,7 @@ var testGeoJson = {
         "geometry": {
             "type": "Point",
             "coordinates": [
-                145.15308380126953, -37.87095762159011
+                120.15308380126953, 31.87095762159011
             ]
         },
         "properties": {
@@ -421,7 +421,7 @@ var testGeoJson = {
         "geometry": {
             "type": "Point",
             "coordinates": [
-                145.16338348388672, -37.936514631609995
+                120.16338348388672, 31.936514631609995
             ]
         },
         "properties": {
@@ -434,7 +434,7 @@ var testGeoJson = {
         "geometry": {
             "type": "Point",
             "coordinates": [
-                145.07549285888672, -37.889926396092655
+                120.07549285888672, 31.889926396092655
             ]
         },
         "properties": {
