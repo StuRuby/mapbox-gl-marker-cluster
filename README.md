@@ -1,2 +1,2 @@
 # mapbox-gl-marker-cluster
-An cluster marker layer demo powered by supercluster library
+An cluster mapbox-gl marker layer demo powered by supercluster library
