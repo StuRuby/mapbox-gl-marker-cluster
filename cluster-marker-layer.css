@@ -1,0 +1,43 @@
+#map .marker {
+    width: 30px;
+    height: 30px;
+    background-color: #f00000;
+    border-radius: 50%;
+}
+
+#map .cluster {
+    width: 40px;
+    height: 40px;
+    background-color: #006893;
+    border-radius: 50%;
+    text-align: center;
+    color: white;
+    font-size: 16px;
+    font-weight: bold;
+    line-height: 40px;
+}
+
+#map .cluster.extraSmall {
+    background-color: #CEFF32;
+    color: black;
+}
+
+#map .cluster.small {
+    background-color: #FECD00;
+    color: white;
+}
+
+#map .cluster.medium {
+    background-color: #FC7900;
+    color: white;
+}
+
+#map .cluster.large {
+    background-color: #FA1900;
+    color: white;
+}
+
+#map .cluster.extraLarge {
+    background-color: #C10000;
+    color: white;
+}
