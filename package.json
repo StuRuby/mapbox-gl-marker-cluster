@@ -1,0 +1,30 @@
+{
+  "name": "mapbox-gl-marker-cluster",
+  "version": "1.0.0",
+  "description": "An cluster mapbox-gl marker layer demo powered by supercluster library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StuRuby/mapbox-gl-marker-cluster.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/StuRuby/mapbox-gl-marker-cluster/issues"
+  },
+  "homepage": "https://github.com/StuRuby/mapbox-gl-marker-cluster#readme",
+  "dependencies": {
+    "mapbox-gl": "^0.52.0-beta.1",
+    "supercluster": "^5.0.0"
+  },
+  "devDependencies": {
+    "css-loader": "^2.0.0",
+    "style-loader": "^0.23.1",
+    "url-loader": "^1.1.2",
+    "webpack": "^4.27.1"
+  }
+}
